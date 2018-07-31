@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml:2:5-27
+		INJECTED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\ziting.han\.android\build-cache\dd8a0a5e15c474880474f64dc6032d2bae96600c\output\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml:5:22-75
+application
+ADDED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [smartlab:react-native-navigation:unspecified] D:\project\smart-lab\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:11:5-18:19
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\ziting.han\.android\build-cache\dd8a0a5e15c474880474f64dc6032d2bae96600c\output\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\ziting.han\.android\build-cache\d53cc93509512746a53a4d6b1bf70db6cc990edf\output\AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\ziting.han\.android\build-cache\f56d1ebfaf59f8808b1e83db49859342d942f344\output\AndroidManifest.xml:2:3-17
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\ziting.han\.android\build-cache\3cfe49839a6d4c0146d06ff61a2ad7343edf04de\output\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\ziting.han\.android\build-cache\b9e365b88981f6d76b249f1323d15002245a5ecc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ziting.han\.android\build-cache\6ad2c2021f14cc639b0e533f84ffee649421d79e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\ziting.han\.android\build-cache\516d5bd8fbcf9df5c28e4d2f1ca7be816ac281ad\output\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ziting.han\.android\build-cache\7b33c04c5205bfee7fc02089661899768e48da0b\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ziting.han\.android\build-cache\3519d6c9307e0c40792828c545ccba3621667aa3\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ziting.han\.android\build-cache\e69d09e632388bbfb7cc7796ee0b9bd479afddac\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ziting.han\.android\build-cache\8a6fa9544da3ee04e2675cdc3003059ad711b7de\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ziting.han\.android\build-cache\a7392242c9c7e1b42525bd3c36a293f11921520c\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ziting.han\.android\build-cache\dd660360537c71f50826b462d6a0263898e866a9\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ziting.han\.android\build-cache\d330951c10c4fadccf96dd25acb055ef9ff1d1ab\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ziting.han\.android\build-cache\36529bf2b75a8cf0c19d15db699da6b174578039\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ziting.han\.android\build-cache\020c3fd26f65fcf8c8d381a4882f8c466dc3ef70\output\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ziting.han\.android\build-cache\0449ebf58240798a601c55f786cf17be67019dc5\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\ziting.han\.android\build-cache\7318a24a53265fc044b878ee0e2e5938c45d8d5c\output\AndroidManifest.xml:12:5-20
+	android:label
+		ADDED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml:9:7-39
+	android:allowBackup
+		ADDED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:icon
+		ADDED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:theme
+		ADDED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml:8:7-38
+activity#com.smartlab.MainActivity
+ADDED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml:23:7-84
+MERGED from [smartlab:react-native-navigation:unspecified] D:\project\smart-lab\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from [smartlab:react-native-navigation:unspecified] D:\project\smart-lab\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [smartlab:react-native-vector-icons:unspecified] D:\project\smart-lab\node_modules\react-native-vector-icons\android\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [smartlab:react-native-navigation:unspecified] D:\project\smart-lab\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\ziting.han\.android\build-cache\dd8a0a5e15c474880474f64dc6032d2bae96600c\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\ziting.han\.android\build-cache\fe8685d092c51b232cbd221e1abd2b2b16b942a4\output\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\ziting.han\.android\build-cache\83e27edecfa8190472d987677130e3a664294b51\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\ziting.han\.android\build-cache\caa6c0ea9e982044736cd364902c96c4f778a12d\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\ziting.han\.android\build-cache\8e2ab8fab9c2565778a741f0c6e917f0c1afa332\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\ziting.han\.android\build-cache\3dc781b1c1f60c43d8cd78e5e7e8b8b24b1497c8\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\ziting.han\.android\build-cache\4365add5327f0fa69948f96a7f42e56ef7467ed7\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\ziting.han\.android\build-cache\a460a8f0b39c6c450c37ea5ab8c662244940b942\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\ziting.han\.android\build-cache\d53cc93509512746a53a4d6b1bf70db6cc990edf\output\AndroidManifest.xml:2:3-70
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\ziting.han\.android\build-cache\3cfe49839a6d4c0146d06ff61a2ad7343edf04de\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\ziting.han\.android\build-cache\b9e365b88981f6d76b249f1323d15002245a5ecc\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\ziting.han\.android\build-cache\3f2add54a9e57edc05e63e5508d0152f4d8eb78f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ziting.han\.android\build-cache\6ad2c2021f14cc639b0e533f84ffee649421d79e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\ziting.han\.android\build-cache\516d5bd8fbcf9df5c28e4d2f1ca7be816ac281ad\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ziting.han\.android\build-cache\7b33c04c5205bfee7fc02089661899768e48da0b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ziting.han\.android\build-cache\3519d6c9307e0c40792828c545ccba3621667aa3\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ziting.han\.android\build-cache\e69d09e632388bbfb7cc7796ee0b9bd479afddac\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ziting.han\.android\build-cache\8a6fa9544da3ee04e2675cdc3003059ad711b7de\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ziting.han\.android\build-cache\a7392242c9c7e1b42525bd3c36a293f11921520c\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ziting.han\.android\build-cache\dd660360537c71f50826b462d6a0263898e866a9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ziting.han\.android\build-cache\d330951c10c4fadccf96dd25acb055ef9ff1d1ab\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ziting.han\.android\build-cache\36529bf2b75a8cf0c19d15db699da6b174578039\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ziting.han\.android\build-cache\020c3fd26f65fcf8c8d381a4882f8c466dc3ef70\output\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ziting.han\.android\build-cache\0449ebf58240798a601c55f786cf17be67019dc5\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\ziting.han\.android\build-cache\7318a24a53265fc044b878ee0e2e5938c45d8d5c\output\AndroidManifest.xml:8:5-10:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\ziting.han\.android\build-cache\b9e365b88981f6d76b249f1323d15002245a5ecc\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml
+activity#com.reactnativenavigation.controllers.NavigationActivity
+ADDED from [smartlab:react-native-navigation:unspecified] D:\project\smart-lab\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:12:9-14:86
+	android:configChanges
+		ADDED from [smartlab:react-native-navigation:unspecified] D:\project\smart-lab\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:14:13-83
+	android:name
+		ADDED from [smartlab:react-native-navigation:unspecified] D:\project\smart-lab\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:13:13-84
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\project\smart-lab\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\ziting.han\.android\build-cache\b9e365b88981f6d76b249f1323d15002245a5ecc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\ziting.han\.android\build-cache\3f2add54a9e57edc05e63e5508d0152f4d8eb78f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ziting.han\.android\build-cache\6ad2c2021f14cc639b0e533f84ffee649421d79e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ziting.han\.android\build-cache\3519d6c9307e0c40792828c545ccba3621667aa3\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ziting.han\.android\build-cache\e69d09e632388bbfb7cc7796ee0b9bd479afddac\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ziting.han\.android\build-cache\8a6fa9544da3ee04e2675cdc3003059ad711b7de\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ziting.han\.android\build-cache\a7392242c9c7e1b42525bd3c36a293f11921520c\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ziting.han\.android\build-cache\dd660360537c71f50826b462d6a0263898e866a9\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ziting.han\.android\build-cache\d330951c10c4fadccf96dd25acb055ef9ff1d1ab\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ziting.han\.android\build-cache\36529bf2b75a8cf0c19d15db699da6b174578039\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ziting.han\.android\build-cache\020c3fd26f65fcf8c8d381a4882f8c466dc3ef70\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\ziting.han\.android\build-cache\b9e365b88981f6d76b249f1323d15002245a5ecc\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\ziting.han\.android\build-cache\b9e365b88981f6d76b249f1323d15002245a5ecc\output\AndroidManifest.xml:26:9-47
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ziting.han\.android\build-cache\0449ebf58240798a601c55f786cf17be67019dc5\output\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ziting.han\.android\build-cache\0449ebf58240798a601c55f786cf17be67019dc5\output\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ziting.han\.android\build-cache\0449ebf58240798a601c55f786cf17be67019dc5\output\AndroidManifest.xml:26:13-58

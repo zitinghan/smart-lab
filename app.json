@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "name": "smartlab",
+    "android": {
+      "package": "com.deltadrcsg.smartLab"
+    }
+  },
+  "name": "smartlab",
+  "displayName": "Smart Lab",
+  "android": {
+       "package": "com.deltadrcsg.smartLab"
+  }
+}
